@@ -1,5 +1,6 @@
 # stat579-glcoll16
-creating a first repo for stat 597 
+creating a first repo for stat 579 
 
-- my first list item
-- my second list item
+- Gabrielle Collins
+- Three main activities Iv've been doing: working, golfing, taking care of my puppy
+
